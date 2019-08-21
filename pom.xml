@@ -110,11 +110,7 @@
             </plugin>
         </plugins>
     </build>
-
-    <modules>
-        <module>themes</module>
-    </modules>    
-    
+  
     <dependencies>
         <dependency>
             <groupId>org.wildfly.swarm</groupId>
